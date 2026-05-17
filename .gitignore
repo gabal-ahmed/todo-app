@@ -1,0 +1,7 @@
+# XAMPP / PHP
+*.log
+.DS_Store
+Thumbs.db
+
+# Sensitive config — copy config.php from config.example.php
+config.php
